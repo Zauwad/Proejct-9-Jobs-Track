@@ -1,0 +1,279 @@
+[
+  {
+    "id": "1",
+    "name": "TechNova",
+    "logo": "https://dummyimage.com/100x100/000/fff&text=Tec",
+    "location": "New York, NY",
+    "industry": "Software Development",
+    "jobs": [
+      {
+        "id": "job-01-1",
+        "title": "Mobile App Developer",
+        "bannerImage": "https://dummyimage.com/600x200/000/fff&text=Job+01-1",
+        "location": "Austin, TX",
+        "salary": "$60k-$80k",
+        "jobType": "Full-time",
+        "description": "An exciting opportunity to join a dynamic team and grow your career.",
+        "requirements": [
+          "Knowledge of Python or Java",
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Familiarity with cloud services like AWS or Azure"
+        ],
+        "website": "https://technova.com"
+      },
+      {
+        "id": "job-01-2",
+        "title": "UX/UI Designer",
+        "bannerImage": "https://dummyimage.com/600x200/000/fff&text=Job+01-2",
+        "location": "Los Angeles, CA",
+        "salary": "$80k-$100k",
+        "jobType": "Full-time",
+        "description": "An exciting opportunity to join a dynamic team and grow your career.",
+        "requirements": [
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs",
+          "Strong communication skills",
+          "Knowledge of Python or Java",
+          "Familiarity with cloud services like AWS or Azure"
+        ],
+        "website": "https://technova.com"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "GreenByte Solutions",
+    "logo": "https://dummyimage.com/100x100/000/fff&text=Gre",
+    "location": "San Francisco, CA",
+    "industry": "Fintech",
+    "jobs": [
+      {
+        "id": "job-02-1",
+        "title": "Frontend Developer",
+        "bannerImage": "https://dummyimage.com/600x200/000/fff&text=Job+02-1",
+        "location": "Remote",
+        "salary": "$100k-$120k",
+        "jobType": "Full-time",
+        "description": "An exciting opportunity to join a dynamic team and grow your career.",
+        "requirements": [
+          "Familiarity with RESTful APIs",
+          "Good understanding of responsive design",
+          "Familiarity with cloud services like AWS or Azure",
+          "Experience with React or Vue.js",
+          "Proficient in HTML, CSS, and JavaScript"
+        ],
+        "website": "https://greenbytesolutions.com"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "CloudNest",
+    "logo": "https://dummyimage.com/100x100/000/fff&text=Clo",
+    "location": "Austin, TX",
+    "industry": "AI & Machine Learning",
+    "jobs": [
+      {
+        "id": "job-03-1",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://dummyimage.com/600x200/000/fff&text=Job+03-1",
+        "location": "Remote",
+        "salary": "$60k-$80k",
+        "jobType": "Internship",
+        "description": "An exciting opportunity to join a dynamic team and grow your career.",
+        "requirements": [
+          "Familiarity with cloud services like AWS or Azure",
+          "Experience with React or Vue.js",
+          "Strong communication skills",
+          "Familiarity with RESTful APIs",
+          "Excellent problem-solving skills"
+        ],
+        "website": "https://cloudnest.com"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "QuantumWare",
+    "logo": "https://dummyimage.com/100x100/000/fff&text=Qua",
+    "location": "Seattle, WA",
+    "industry": "Education Technology",
+    "jobs": [
+      {
+        "id": "job-04-1",
+        "title": "Product Manager",
+        "bannerImage": "https://dummyimage.com/600x200/000/fff&text=Job+04-1",
+        "location": "Seattle, WA",
+        "salary": "$100k-$120k",
+        "jobType": "Contract",
+        "description": "An exciting opportunity to join a dynamic team and grow your career.",
+        "requirements": [
+          "Strong communication skills",
+          "Knowledge of Python or Java",
+          "Familiarity with cloud services like AWS or Azure",
+          "Good understanding of responsive design",
+          "Proficient in HTML, CSS, and JavaScript"
+        ],
+        "website": "https://quantumware.com"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "EcoData Corp",
+    "logo": "https://dummyimage.com/100x100/000/fff&text=Eco",
+    "location": "Chicago, IL",
+    "industry": "Agricultural Tech",
+    "jobs": [
+      {
+        "id": "job-05-1",
+        "title": "QA Engineer",
+        "bannerImage": "https://dummyimage.com/600x200/000/fff&text=Job+05-1",
+        "location": "Chicago, IL",
+        "salary": "$100k-$120k",
+        "jobType": "Full-time",
+        "description": "An exciting opportunity to join a dynamic team and grow your career.",
+        "requirements": [
+          "Experience with React or Vue.js",
+          "Good understanding of responsive design",
+          "Familiarity with cloud services like AWS or Azure",
+          "Familiarity with RESTful APIs",
+          "Proficient in HTML, CSS, and JavaScript"
+        ],
+        "website": "https://ecodatacorp.com"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "InnoSoft",
+    "logo": "https://dummyimage.com/100x100/000/fff&text=Inn",
+    "location": "Remote",
+    "industry": "Big Data Analytics",
+    "jobs": [
+      {
+        "id": "job-06-1",
+        "title": "Frontend Developer",
+        "bannerImage": "https://dummyimage.com/600x200/000/fff&text=Job+06-1",
+        "location": "Boston, MA",
+        "salary": "$80k-$100k",
+        "jobType": "Full-time",
+        "description": "An exciting opportunity to join a dynamic team and grow your career.",
+        "requirements": [
+          "Knowledge of Python or Java",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with React or Vue.js",
+          "Strong communication skills",
+          "Familiarity with cloud services like AWS or Azure"
+        ],
+        "website": "https://innosoft.com"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "HealthBridge",
+    "logo": "https://dummyimage.com/100x100/000/fff&text=Hea",
+    "location": "Boston, MA",
+    "industry": "Health Tech",
+    "jobs": [
+      {
+        "id": "job-07-1",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://dummyimage.com/600x200/000/fff&text=Job+07-1",
+        "location": "Seattle, WA",
+        "salary": "$80k-$100k",
+        "jobType": "Full-time",
+        "description": "An exciting opportunity to join a dynamic team and grow your career.",
+        "requirements": [
+          "Good understanding of responsive design",
+          "Familiarity with RESTful APIs",
+          "Familiarity with cloud services like AWS or Azure",
+          "Strong communication skills",
+          "Experience with React or Vue.js"
+        ],
+        "website": "https://healthbridge.com"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "AgriTech Labs",
+    "logo": "https://dummyimage.com/100x100/000/fff&text=Agr",
+    "location": "Denver, CO",
+    "industry": "Green Technology",
+    "jobs": [
+      {
+        "id": "job-08-1",
+        "title": "Data Scientist",
+        "bannerImage": "https://dummyimage.com/600x200/000/fff&text=Job+08-1",
+        "location": "Remote",
+        "salary": "$60k-$80k",
+        "jobType": "Internship",
+        "description": "An exciting opportunity to join a dynamic team and grow your career.",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Good understanding of responsive design",
+          "Strong communication skills",
+          "Familiarity with RESTful APIs",
+          "Experience with React or Vue.js"
+        ],
+        "website": "https://agritechlabs.com"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "FinCore Inc",
+    "logo": "https://dummyimage.com/100x100/000/fff&text=Fin",
+    "location": "Los Angeles, CA",
+    "industry": "Fintech",
+    "jobs": [
+      {
+        "id": "job-09-1",
+        "title": "Backend Developer",
+        "bannerImage": "https://dummyimage.com/600x200/000/fff&text=Job+09-1",
+        "location": "Chicago, IL",
+        "salary": "$80k-$100k",
+        "jobType": "Part-time",
+        "description": "An exciting opportunity to join a dynamic team and grow your career.",
+        "requirements": [
+          "Experience with React or Vue.js",
+          "Knowledge of Python or Java",
+          "Familiarity with RESTful APIs",
+          "Familiarity with cloud services like AWS or Azure",
+          "Strong communication skills"
+        ],
+        "website": "https://fincoreinc.com"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "EduVerse",
+    "logo": "https://dummyimage.com/100x100/000/fff&text=Edu",
+    "location": "Atlanta, GA",
+    "industry": "Green Technology",
+    "jobs": [
+      {
+        "id": "job-10-1",
+        "title": "QA Engineer",
+        "bannerImage": "https://dummyimage.com/600x200/000/fff&text=Job+10-1",
+        "location": "Atlanta, GA",
+        "salary": "$120k-$150k",
+        "jobType": "Full-time",
+        "description": "An exciting opportunity to join a dynamic team and grow your career.",
+        "requirements": [
+          "Experience with React or Vue.js",
+          "Familiarity with cloud services like AWS or Azure",
+          "Familiarity with RESTful APIs",
+          "Strong communication skills",
+          "Knowledge of Python or Java"
+        ],
+        "website": "https://eduverse.com"
+      }
+    ]
+  }
+]
